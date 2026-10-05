@@ -1,0 +1,6 @@
+{
+  "name": "HSC Corporate Access & Earnings Calls Portal",
+  "description": "Institutional client portal for earnings calls, management access meetings, presentation slides, and call recordings with Vietnam listed companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
